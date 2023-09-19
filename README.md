@@ -3,7 +3,7 @@ Converts .txt-files with rows of comma-delimited rbg-values as a colormap to a c
 
 HOW TO USE IT
 
-import import matlab_colormap_2_python_colormap
+import import matlab_colormap_2_python_colormap\n
 import matplotlib.pyplot as plt
 
 colorm = matlab_colormap_2_python_colormap.conv_matlab_cmap_to_python("directory/colormmap_file.txt")
