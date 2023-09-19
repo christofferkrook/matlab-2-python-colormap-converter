@@ -1,6 +1,11 @@
 # matlab-2-python-colormap-converter
 Converts .txt-files with rows of comma-delimited rbg-values as a colormap to a colormap which you can use in python.
 
+Not very elegant, but hey, it works
+
+
+
+
 HOW TO USE IT
 
 import import matlab_colormap_2_python_colormap
